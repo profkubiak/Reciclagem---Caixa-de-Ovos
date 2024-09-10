@@ -79,9 +79,9 @@ section.steps h2 {
 }
 
 .step img {
-    max-width: 100%;
+    max-width: 10%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 footer {
