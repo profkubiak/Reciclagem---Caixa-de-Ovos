@@ -1,0 +1,97 @@
+/* Estilo básico para o site de reciclagem */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+section.intro {
+    margin: 20px 0;
+    text-align: center;
+}
+
+section.intro h2 {
+    font-size: 2rem;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+section.intro p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+section.intro img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+section.steps {
+    margin-top: 40px;
+}
+
+section.steps h2 {
+    font-size: 2rem;
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.step {
+    margin-bottom: 40px;
+}
+
+.step h3 {
+    font-size: 1.5rem;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.step p {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.step img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 0.9rem;
+}
