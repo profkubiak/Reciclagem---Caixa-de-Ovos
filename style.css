@@ -49,7 +49,7 @@ section.intro p {
 section.intro img {
     max-width: 20%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 2px;
 }
 
 section.steps {
